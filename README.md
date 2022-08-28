@@ -1,1 +1,1 @@
-Find reequired python notebook above
+Find required python notebook above
